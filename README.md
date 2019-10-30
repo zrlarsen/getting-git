@@ -3,7 +3,7 @@
 The **Objectives** file contains a list of all objectives covered on Monday, Tuesday, and today, but they are out of order.
 This is a chance to practice using GitHub, Terminal commands, and Git:
 
-### Clone this Repo
+### Fork and Clone this Repo
 Create a clone of this repo to your local machine.
 
 ### Create new Branches
