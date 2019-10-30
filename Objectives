@@ -1,26 +1,12 @@
-Understand and explain version control
-Define custom types using class, struct, and enum
-Understand how braces `{}` are used to group code into blocks and how scope affects the lifespan of a variable
-Force unwrap an optional type and understand the potential dangers and benefits
-Understand how to apply mutability to variables (`let` vs. `var`)
-Push changes to a remote Git repository
-Group like instructions into a function and call that function to reuse/organize code
-Create a pull request on GitHub
-Iterate over an array using a loop to accomplish some task
-Create custom initializers
-Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
-Clone a remote Git repository
-Use an if let statement to unwrap an optional variable
-Create a fork on GitHub
-Understand and explain the difference between a method and a function
-Show and explain the difference between value types vs. reference types
-Identify, use, and understand the difference between the basic data types: `Int`, `Double`, `Bool`, `String`)
-Clone a remote Git repository
-Use conditional logic to execute various code paths
-Commit changes to a Git repository and write good commit messages
-Understand and explain the purpose of optionals
+Wednesday:
 
-
+define custom types using class, struct, and enum
+show and explain the difference between value types vs. reference types
+create custom initializers
+understand and explain the difference between a method and a function
+understand and explain the purpose of optionals
+use an if let statement to unwrap an optional variable
+force unwrap an optional type and understand the potential dangers and benefits
 
 
 
