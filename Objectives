@@ -1,4 +1,4 @@
-Understand and explain version control
+Understand and explain vers/Users/zacklarsen/Documents/Development/getting-git/Objectivesion control
 Define custom types using class, struct, and enum
 Understand how braces `{}` are used to group code into blocks and how scope affects the lifespan of a variable
 Force unwrap an optional type and understand the potential dangers and benefits
@@ -19,6 +19,13 @@ Clone a remote Git repository
 Use conditional logic to execute various code paths
 Commit changes to a Git repository and write good commit messages
 Understand and explain the purpose of optionals
+
+I need to create 3 separate branches for these past three days.
+This is what I need to change.
+
+
+
+
 
 
 
